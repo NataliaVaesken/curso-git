@@ -13,4 +13,7 @@ Area de validacion de cambios, donde se registran las modificaciones
 realizadas dentro de nuestro proyecto, realiza una captura del codigo
 al que se le este haciendo seguimiento.
 
+remote repository: 
+servidor donde cargaremos nuestros commit para tener una copia de los 
+cambios realizados
  

@@ -1,0 +1,5 @@
+git add "nombre": agrega un archivo o carpeta al index
+git commit: registra los cambios en el repositorio actual con un numero de #
+git status: compara el Working directory con el index
+git diff --stage: compara por defecto el index con el repositorio local
+git diff "nombre" : compara los cambios realizados en un archivo entre el head actual y 
